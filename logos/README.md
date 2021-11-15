@@ -6,7 +6,7 @@
 **Filename:** `CHRISTMAS-wordpractice.png`    
 **Author:** `Harold.#7500`, `Principle#0853`    
 **Preview:**    
-> <img src="./CHRISTMAS-wordpractice.png" width="200">    
+> <img src="./CHRISTMAS-wordPractice.png" width="200">    
 
 ### Default
 **Filename:** `DEFAULT-wordpractice.png`    
@@ -18,6 +18,6 @@
 **Filename:** `HALLOWEEN-wordpractice.png`    
 **Author:** `Principle#0853`    
 **Preview:**    
-> <img src="./HALLOWEEN-wordpractice.png" width="200">    
+> <img src="./HALLOWEEN-wordPractice.png" width="200">    
 
 

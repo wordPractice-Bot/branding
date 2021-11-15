@@ -2,15 +2,22 @@
 
 **Here you can see our current list of logos.**
 
-### Default
-**Filename:** `DEFAULT-wordpractice-orangetealwhite.png`    
-**Author:** `Harold.#7500`, `Principle#0853`    
-**Preview:**    
-> <img src="./DEFAULT-wordPractice-orangetealwhite.png" width="200">    
-
 ### Christmas Logo
-**Filename:** `CHRISTMAS-wordpractice-redgreenwhite.png`    
+**Filename:** `CHRISTMAS-wordpractice.png`    
 **Author:** `Harold.#7500`, `Principle#0853`    
 **Preview:**    
-> <img src="./CHRISTMAS-wordPractice-redgreenwhite.png" width="200">    
+> <img src="./CHRISTMAS-wordpractice.png" width="200">    
+
+### Default
+**Filename:** `DEFAULT-wordpractice.png`    
+**Author:** `Principle#0853`    
+**Preview:**    
+> <img src="./DEFAULT-wordPractice.png" width="200">    
+
+### Halloween Logo
+**Filename:** `HALLOWEEN-wordpractice.png`    
+**Author:** `Principle#0853`    
+**Preview:**    
+> <img src="./HALLOWEEN-wordpractice.png" width="200">    
+
 

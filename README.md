@@ -7,7 +7,7 @@ We're a fun and playful that doesn't take ourselves too seriously. That being sa
 
 
 
-<img src="./logos/DEFAULT-wordPractice-orangetealwhite.png" width="350">
+<img src="./logos/DEFAULT-wordPractice.png" width="350">
 
 
 > You can find all of our seasonal logos in the `/logos` directory.

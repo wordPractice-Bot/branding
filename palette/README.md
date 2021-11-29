@@ -12,8 +12,19 @@
 **Used With:** `Default typing test words`    
 **Screenshots:** Coming Soon
 
+### Teal
+**Hex:** `#009b8a`
+**Used With:** `Official Logo`
+
 ### Orange
 **Hex:** `#f06414`  
 **Used With:** `Achievements title`       
 **Screenshots:** Coming Soon
 
+### wP Orange
+**Hex:** `#ff5100`
+**Used With:** `Official Logo`
+
+### Pale Grey
+**Hex:** `#e7e7e7`
+**Used With:** `Official Logo`

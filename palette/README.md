@@ -9,6 +9,16 @@
 | Kingfisher | `#009788` | ![](https://singlecolorimage.com/get/009788/16x16) |
 | Snow | `#e8e8e8` | ![](https://singlecolorimage.com/get/e8e8e8/16x16) |
 
+## **Seasonal Logos:**
+| Logo Season | Background Hex Value | "W" | "P" | Preview 
+| --- | :---: | :---: | :---: | :---: |
+| Default | `#ff5f00` | `#2d704d` | `#e8e8e8` | <img src="../logos/DEFAULT-wordPractice.png" width="48"/> | 
+| Dev | `#ff5f00` | `#2d704d` | `#e8e8e8` | <img src="../logos/DEV-wordPractice.png" width="48"/> | 
+| Winter | `#5865f2` | `#a7aef8` | `#ffffff` | <img src="../logos/WINTER-wordPractice.png" width="48"/> | 
+| Christmas | `#d03119` | `#009788` | `#e8e8e8` | <img src="../logos/CHRISTMAS-wordPractice.png" width="48"/> | 
+| Halloween | `#151515` | `#db6225` | `#acaeb1` | <img src="../logos/HALLOWEEN-wordPractice.png" width="48"/> | 
+
+
 ## **Default Typing Themes:**
 
 | Theme Name | Background Hex Value | Text Hex Value |Colour Preview |
@@ -29,31 +39,3 @@
 | **Mewni Sunset:** | `#1a0f16` | `#9686b4` | <img src="../themes/previews/mewni_sunset.png" width="16"/> |
 | **Cinnamon Mocha:** | `#80687a` | `#eecfbf` | <img src="../themes/previews/cinnamon_mocha.png" width="16"/> |
 | **Light of Egress:** | `#2f2437` | `#c7a1c0` | <img src="../themes/previews/light_of_egress.png" width="16"/> |
-
-
-### Grey
-**Hex:** `#2b2e33`    
-**Used With:** `Default typing test text background`    
-**Screenshots:** Coming Soon
-
-### Light Aqua
-**Hex:** `#1ee3cc`    
-**Used With:** `Default typing test words`    
-**Screenshots:** Coming Soon
-
-### Teal
-**Hex:** `#009b8a`
-**Used With:** `Official Logo`
-
-### Orange
-**Hex:** `#f06414`  
-**Used With:** `Achievements title`       
-**Screenshots:** Coming Soon
-
-### wP Orange
-**Hex:** `#ff5100`
-**Used With:** `Official Logo`
-
-### Pale Grey
-**Hex:** `#e7e7e7`
-**Used With:** `Official Logo`
